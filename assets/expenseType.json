@@ -1,0 +1,38 @@
+{
+  "1": {
+    "name": "Food",
+    "icon-name-unselected": "food-drumstick-outline",
+    "icon-name-selected": "food-drumstick",
+    "color": "#FF6347"  
+  },
+  "2": {
+    "name": "Transport",
+    "icon-name-unselected": "car-outline",
+    "icon-name-selected": "car",
+    "color": "#4682B4"  
+  },
+  "3": {
+    "name": "Entertainment",
+    "icon-name-unselected": "gamepad-variant-outline",
+    "icon-name-selected": "gamepad-variant",
+    "color": "#FFD700"  
+  },
+  "4": {
+    "name": "Clothes",
+    "icon-name-unselected": "tshirt-crew-outline",
+    "icon-name-selected": "tshirt-crew",
+    "color": "#8A2BE2" 
+  },
+  "5": {
+    "name": "Charity",
+    "icon-name-unselected": "hand-heart-outline",
+    "icon-name-selected": "hand-heart",
+    "color": "#FF69B4"  
+  },
+  "6": {
+    "name": "Supply",
+    "icon-name-unselected": "storefront-outline",
+    "icon-name-selected": "storefront",
+    "color": "#32CD32"  
+  }
+}
